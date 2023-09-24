@@ -1,6 +1,6 @@
-###Test for HardQode company
+### Test for HardQode company
 
-##Install:
+## Install:
 
 git clone git@github.com:LeitoKonor/HQ_test.git
 
