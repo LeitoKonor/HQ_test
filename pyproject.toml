@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "hq-test"
+version = "0.1.0"
+description = ""
+authors = ["LeitoKonor <joltrico96@gmail.com>"]
+readme = "README.md"
+packages = [{include = "hq_test"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+django = "^4.2.5"
+django-extensions = "^3.2.3"
+djangorestframework = "^3.14.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
